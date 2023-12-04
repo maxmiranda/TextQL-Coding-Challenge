@@ -1,0 +1,702 @@
+[
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandA",
+    "price": 299.99,
+    "units_sold": 1000,
+    "rating": 4.5
+  },
+  {
+    "category": "Books",
+    "brand": "BrandB",
+    "price": 15.99,
+    "units_sold": 500,
+    "rating": 4.0
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandC",
+    "price": 49.99,
+    "units_sold": 1500,
+    "rating": 3.8
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandD",
+    "price": 199.99,
+    "units_sold": 300,
+    "rating": 4.2
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandE",
+    "price": 29.99,
+    "units_sold": 800,
+    "rating": 4.6
+  },
+  {
+    "category": "Electronics",
+    "brand": "BrandF",
+    "price": 399.99,
+    "units_sold": 900,
+    "rating": 4.8
+  },
+  {
+    "category": "Books",
+    "brand": "BrandG",
+    "price": 9.99,
+    "units_sold": 700,
+    "rating": 4.1
+  },
+  {
+    "category": "Clothing",
+    "brand": "BrandH",
+    "price": 59.99,
+    "units_sold": 1200,
+    "rating": 3.5
+  },
+  {
+    "category": "Furniture",
+    "brand": "BrandI",
+    "price": 259.99,
+    "units_sold": 250,
+    "rating": 4.3
+  },
+  {
+    "category": "Toys",
+    "brand": "BrandJ",
+    "price": 19.99,
+    "units_sold": 1100,
+    "rating": 4.7
+  }
+]

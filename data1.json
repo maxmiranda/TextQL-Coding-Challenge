@@ -1,0 +1,44 @@
+[
+  {
+    "state": "California",
+    "region": "West",
+    "pop": 1,
+    "pop_male": 5,
+    "pop_female": 6
+  },
+  {
+    "state": "Texas",
+    "region": "South",
+    "pop": 1,
+    "pop_male": 4,
+    "pop_female": 6
+  },
+  {
+    "state": "Florida",
+    "region": "South",
+    "pop": 3,
+    "pop_male": 3,
+    "pop_female": 0
+  },
+  {
+    "state": "New York",
+    "region": "Northeast",
+    "pop": 4,
+    "pop_male": 2,
+    "pop_female": 2
+  },
+  {
+    "state": "Illinois",
+    "region": "Midwest",
+    "pop": 5,
+    "pop_male": 1,
+    "pop_female": 4
+  },
+  {
+    "state": "Arizona",
+    "region": "West",
+    "pop": 2,
+    "pop_male": 4,
+    "pop_female": 6
+  }
+]
