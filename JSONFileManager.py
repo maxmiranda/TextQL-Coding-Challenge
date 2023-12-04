@@ -17,6 +17,7 @@ class JSONFileManager:
             file_content = json.load(file)
             file_name = file_path.replace(".json", "")
             self.files[file_name] = file_content
+            # Give user feedback that file has been successfully imported
             print(f"File imported: {file_path}")
 
     def get_file_content(self, file_path):

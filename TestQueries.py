@@ -40,7 +40,7 @@ class TestQueries(unittest.TestCase):
             table_name = file_path.replace(".json", "")
             query = Query("""SELECT state FROM table WHERE pop > 3 OR (pop_female = 6 AND region = 'West');""")
             result = query.execute(table, table_name)
-            expected_states = ['California', 'New York', 'Illinois', 'Arizona']  
+            expected_states = ['California', 'New York', 'Arizona']  
             self.assertListEqual(result, expected_states)
 
     def test_parentheses_2(self):    
@@ -82,6 +82,26 @@ class TestQueries(unittest.TestCase):
             result = query.execute(table, table_name)
             expected_states = ['California', 'Texas', 'Florida']  
             self.assertListEqual(result, expected_states)
-            
+    
+    def test_multi_col_select(self):
+        file_path = "data1.json"
+        with open(file_path, 'r') as file:
+            table = json.load(file)
+            table_name = file_path.replace(".json", "")
+            query = Query("""SELECT state, region FROM table LIMIT 3""")
+            result = query.execute(table, table_name)
+            expected_states = ['California, West', 'Texas, South', 'Florida, South']  
+            self.assertListEqual(result, expected_states)
+    
+    def test_less_than_and_less_than_equal_to(self):
+        file_path = "data1.json"
+        with open(file_path, 'r') as file:
+            table = json.load(file)
+            table_name = file_path.replace(".json", "")
+            query = Query("""SELECT state FROM table WHERE pop < 3 AND pop_female <= 4;""")
+            result = query.execute(table, table_name)
+            expected_states = ['Illinois'] 
+            self.assertListEqual(result, expected_states)
+
 if __name__ == '__main__':
     unittest.main()
